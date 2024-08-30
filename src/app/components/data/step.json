@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "step": "Step",
+        "img": "./step1.png",
+        "title": "CreateAccount",
+        "text":"Contrary to popular beliefLorem Ipsum is not simply random text."
+    },
+    {
+        "id": "2",
+        "step": "Step",
+        "img": "./step2.png",
+        "title": "Fill Details",
+        "text":"Contrary to popular beliefLorem Ipsum is not simply random text."
+    },
+    {
+        "id": "3",
+        "step": "Step",
+        "img": "./step3.png",
+        "title": "GetVerified",
+        "text":"Contrary to popular beliefLorem Ipsum is not simply random text."
+    },
+    {
+        "id": "4",
+        "step": "Step",
+        "img": "./step4.png",
+        "title": "Explore University",
+        "text":"Contrary to popular beliefLorem Ipsum is not simply random text."
+
+    }
+]

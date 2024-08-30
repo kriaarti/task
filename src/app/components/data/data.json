@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "tittle": {
+            "topClg":"TopColleges",
+            "topExam":"TopExams",
+            "study":"StudyAbroad",
+            "quick":"QuickAccess",
+            "topUniversity":"Top Universities"
+        },
+        "subTittle": {
+            "mba": "MBA",
+            "be": "B.Tech/BE",
+            "bca": "BCA",
+            "mca": "MCA",
+            "mTech": "M.Tech",
+            "ma": "MA",
+            "ba": "BA",
+            "medical": "Medical",
+            "cat":"CAT",
+            "gate":"GATE",
+            "jee":"Jee-Main",
+            "neet":"NEET",
+            "xat":"XAT",
+            "clat":"CLAT",
+            "mat":"MAT",
+            "canada":"Canada",
+            "usa":"USA",
+            "uk":"UK",
+            "ukraine":"Ukraine",
+            "germany":"Germany",
+            "australia":"Australia",
+            "italy":"Italy",
+            "ireland":"Ireland",
+            "about":"AboutUs",
+            "contact":"ContactUs",
+            "join":"JoinUs",
+            "advertising":"Advertising",
+            "visual":"Visual Stories",
+            "cusat":"CUSAT",
+            "mnitjaipur":"MNITJaipur",
+            "nittrichy":"NITTrichy",
+            "tezpur":"TEZPURUniversity",
+            "anna":"ANNAUniversity",
+            "dtu":"DTU",
+            "nit":"NITJalandhar",
+            "puchd":"PUCHD",
+            "jaypee":"JAYPEEUniversity",
+            "doon":"DOONUniversity",
+            "fms":"FMSDelhi",
+            "nit":"NITSllchar",
+            "vmou":"VMOU",
+            "vidyasagar":"VidyasagarUniversity"
+
+        }
+    }
+]
